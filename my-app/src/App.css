@@ -1,0 +1,22 @@
+  
+.app{
+    width: 100%;
+    background-color:white;
+    font-size: 50px;
+    height: 180px;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.square{
+    display: inline-block;
+    height: 80px;
+    background-color: rgb(61, 61, 61);
+    border-radius: 10px;
+}
+
+.counter{
+    width: 100px;
+    margin-left: 10px;
+}
